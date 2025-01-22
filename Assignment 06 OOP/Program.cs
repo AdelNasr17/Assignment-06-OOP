@@ -112,6 +112,19 @@
 
             #endregion
 
+            #region Part 02
+
+            #region Q01 : 
+            //Circle circle = new Circle(10);
+            //circle.DisplayShapeInfo();
+
+            //Rectangle Rect = new Rectangle(10, 20);
+            //Rect.DisplayShapeInfo();
+
+            #endregion
+
+
+            #endregion
 
         }
     }
