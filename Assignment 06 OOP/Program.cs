@@ -123,6 +123,15 @@
 
             #endregion
 
+            #region Q02 
+
+            //IAuthenticationService Auth = new BasicAuthenticationService();
+            //Console.WriteLine(Auth.AuthenticateUser("Adel", "12345"));
+            //Console.WriteLine(Auth.AuthorizeUser("Adel", "Admin"));
+
+
+            #endregion
+
 
             #endregion
 
