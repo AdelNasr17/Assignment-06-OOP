@@ -132,6 +132,18 @@
 
             #endregion
 
+            #region Q03
+
+            //EmailNotificationService email = new EmailNotificationService();
+            //Console.WriteLine(email.SendNotification("Adel", "Hi"));
+            //SmsNotificationService sms = new SmsNotificationService();
+            //Console.WriteLine(sms.SendNotification("Adel", "Hi"));
+            //PushNotificationService push = new PushNotificationService();
+            //Console.WriteLine(push.SendNotification("Adel", "Hi"));
+
+
+            #endregion
+
 
             #endregion
 
